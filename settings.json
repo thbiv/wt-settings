@@ -53,6 +53,12 @@
                 "source": "Windows.Terminal.Wsl"
             },
             {
+                "guid": "{1777cdf0-b2c4-5a63-a204-eb60f349ea7c}",
+                "hidden": false,
+                "name": "Alpine",
+                "source": "Windows.Terminal.Wsl"
+            },
+            {
                 // Make changes here to the cmd.exe profile.
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "name": "Command Prompt",
